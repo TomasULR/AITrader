@@ -1,0 +1,4 @@
+timestamp,symbol,entry_price,prediction,probability,actual_direction,actual_return,was_correct,outcome_recorded
+2025-10-20 22:19:57.579238,QQQ,611.5399780273438,1,0.5283946709884512,,,,False
+2025-10-20 22:20:57.801712,QQQ,611.5399780273438,1,0.5283946709884512,,,,False
+2025-10-20 22:21:58.024107,QQQ,611.5399780273438,1,0.5283946709884514,,,,False
